@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/android-chrome-512x512.png',
 
   // The name of your website. Present alongside your icon.
   title: "MZPA OneDrive",
@@ -26,11 +26,11 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
-  googleFontSans: 'Inter',
+  googleFontSans: 'Montserrat',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
-  googleFontMono: 'Fira Mono',
+  googleFontMono: 'Ubuntu Mono',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap'],
+  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Ubuntu+Mono&family=ital,wght@0,400;0,700;1,400;1,700&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
@@ -49,17 +49,17 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'http://github.com/vthanhchannel1',
+      name: 'Facebook',
+      link: 'http://fb.com/vthanhch',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/vthanh2900',
+      name: 'YouTube',
+      link: 'https://youtube.com/VThanhChannel1',
     },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
-  datetimeFormat: 'YYYY-MM-DD HH:mm:ss',
+  datetimeFormat: 'DD-MM-YYYY HH:mm:ss',
 }
