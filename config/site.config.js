@@ -53,8 +53,8 @@ module.exports = {
       link: 'http://fb.com/vthanhch',
     },
     {
-      name: 'YouTube',
-      link: 'https://youtube.com/VThanhChannel1',
+      name: 'Twitter',
+      link: 'https://twitter.com/vthanhchannel',
     },
   ],
 
