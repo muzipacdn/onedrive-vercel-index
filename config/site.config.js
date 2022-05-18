@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/android-chrome-512x512.png',
 
   // The name of your website. Present alongside your icon.
-  title: "MZPA OneDrive",
+  title: "Muzipa OneDrive Storage",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -39,7 +39,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
+  protectedRoutes: [''],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '',
