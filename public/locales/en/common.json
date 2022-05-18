@@ -126,7 +126,7 @@
 
   "If you go back home and still see the welcome page telling you to re-authenticate, ": "If you go back home and still see the welcome page telling you to re-authenticate, ",
 
-  "If you know the password, please enter it below.": "If you know the password, please enter it below.",
+  "If you know the password, please enter it below.": "Nếu bạn biết mật khẩu, vui lòng nhập nó.",
 
   "Last modified": "Thay đổi lần cuối",
 
@@ -218,7 +218,7 @@
 
   "These tokens may take a few seconds to populate after you click the button below. ": "These tokens may take a few seconds to populate after you click the button below. ",
 
-  "This route (the folder itself and the files inside) is password protected. ": "This route (the folder itself and the files inside) is password protected. ",
+  "This route (the folder itself and the files inside) is password protected. ": "Đường dẫn này (cả các thư mục và tệp bên trong) được bảo vệ mật khẩu. ",
 
   "Unavailable": "Không có sẵn",
 
