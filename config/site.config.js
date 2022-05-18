@@ -38,8 +38,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
- protectedRoutes: ['/'],
-
+ protectedRoutes: ['/Pokemon JN', '/Doraemon TV 2015', '/Doraemon Movie', '/Doraemon TV Muzipa_', '/Shin Vietsub', '/Shin Muzipa+'],
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '',
 
