@@ -1,0 +1,240 @@
+{
+
+  "- showing {{count}} page(s) ——one": "- showing {{count}} page ",
+
+  "- showing {{count}} page(s) ——other": "- showing {{count}} pages ",
+
+  "{{count}} item(s)——one": "{{count}} item",
+
+  "{{count}} item(s)——other": "{{count}} items",
+
+  "<0></0> If you are not the owner of this website, stop now, as continuing with this process may expose your personal files in OneDrive.": "<0></0> If you are not the owner of this website, stop now, as continuing with this process may expose your personal files in OneDrive.",
+
+  "<0></0> If you have not specified a REDIS_URL inside your Vercel env variable, go initialise one at <3>Upstash</3>. Docs: <6>Vercel Integration - Upstash</6>.": "<0></0> If you have not specified a REDIS_URL inside your Vercel env variable, go initialise one at <3>Upstash</3>. Docs: <6>Vercel Integration - Upstash</6>.",
+
+  "<0></0> If you see anything missing or incorrect, you need to reconfigure <3>/config/api.config.js</3> and redeploy this instance.": "<0></0> If you see anything missing or incorrect, you need to reconfigure <3>/config/api.config.js</3> and redeploy this instance.",
+
+  "✅ You can now proceed onto the next step: requesting your access token and refresh token.": "✅ You can now proceed onto the next step: requesting your access token and refresh token.",
+
+  "❌ No valid code extracted.": "❌ No valid code extracted.",
+
+  "Acquired access_token: ": "Acquired access_token: ",
+
+  "Acquired refresh_token: ": "Acquired refresh_token: ",
+
+  "Actions": "Hành động",
+
+  "Authorisation is required as no valid <2>access_token</2> or <5>refresh_token</5> is present on this deployed instance. Check the following configurations before proceeding with authorising onedrive-vercel-index with your own Microsoft account.": "Authorisation is required as no valid <2>access_token</2> or <5>refresh_token</5> is present on this deployed instance. Check the following configurations before proceeding with authorising onedrive-vercel-index with your own Microsoft account.",
+
+  "Cancel": "Hủy",
+
+  "Cannot preview {{path}}": "Không thể xem trước {{path}}",
+
+  "Change the raw file direct link to a URL ending with the extension of the file.": "Thay đổi link direct của tệp thành URL kết thúc bằng phần mở rộng của tệp.",
+
+  "Check out <2>Microsoft's official explanation</2> on the error message.": "Check out <2>Microsoft's official explanation</2> on the error message.",
+
+  "Clear all": "Xóa tất cả",
+
+  "Clear all tokens?": "Clear all tokens?",
+
+  "Cleared all tokens": "Cleared all tokens",
+
+  "clearing them means that you will need to re-enter the passwords again.": "xóa tất cả chúng có nghĩa rằng lần sau bạn cần nhập lại mật khẩu.",
+
+  "Copied direct link to clipboard.": "Đã sao chép link direct vào bộ nhớ tạm.",
+
+  "Copied folder permalink.": "Đã sao chép liên kết thư mục cố định.",
+
+  "Copied raw file permalink.": "Đã sao chép liên kết tệp cố định.",
+
+  "Copy direct link": "Sao chép link direct",
+
+  "Copy folder permalink": "Sao chép liên kết thư mục cố định",
+
+  "Copy raw file permalink": "Sao chép liên kết tệp cố định",
+
+  "Copy the permalink to the file to the clipboard": "Sao chép link cố định của file vào bộ nhớ tạm",
+
+  "Customise direct link": "Tùy chỉnh link direct",
+
+  "Customise link": "Tùy chỉnh link",
+
+  "Customised": "Đã tùy chỉnh",
+
+  "Customised and encoded": "Đã tùy chỉnh và mã hóa",
+
+  "Default": "Mặc định",
+
+  "Do not pretend to be the site owner": "Do not pretend to be the site owner",
+
+  "Don't worry, after storing them, onedrive-vercel-index will take care of token refreshes and updates after your site goes live.": "Don't worry, after storing them, onedrive-vercel-index will take care of token refreshes and updates after your site goes live.",
+
+  "Download": "Tải xuống",
+
+  "Download file": "Tải tập tin xuống",
+
+  "Download folder": "Tải thư mục xuống",
+
+  "Download selected files": "Tải các tập tin đã chọn",
+
+  "Download the file directly through OneDrive": "Tải xuống tệp trực tiếp thông qua OneDrive",
+
+  "Downloading {{progress}}%": "Đang tải xuống {{progress}}%",
+
+  "Downloading folder, refresh page to cancel": "Đang tải thư mục xuống, F5 để hủy",
+
+  "Downloading selected files, refresh page to cancel": "Đang tải các tệp đã chọn xuống, F5 để hủy",
+
+  "Downloading selected files...": "Đang tải các tệp đã chọn...",
+
+  "Email": "Email",
+
+  "Enter Password": "Nhập mật khẩu",
+
+  "Error storing the token": "Error storing the token",
+
+  "Error validating identify, restart": "Error validating identify, restart",
+
+  "Error: {{message}}": "Lỗi: {{message}}",
+
+  "Failed to download folder {{path}}: {{status}} {{message}} Skipped it to continue.": "Tải thư mục {{path}} thất bại: {{status}} {{message}} Bỏ qua để tiếp tục.",
+
+  "Failed to download folder.": "Tải xuống thư mục thất bại.",
+
+  "Failed to download selected files.": "Tải xuống tệp đã chọn thất bại.",
+
+  "File is empty.": "Tệp trống.",
+
+  "File size": "Kích thước tệp",
+
+  "Filename": "Tên tệp",
+
+  "Final step, click the button below to store these tokens persistently before they expire after {{minutes}} minutes {{seconds}} seconds. ": "Final step, click the button below to store these tokens persistently before they expire after {{minutes}} minutes {{seconds}} seconds. ",
+
+  "Finished downloading folder.": "Tải xuống thư mục thành công.",
+
+  "Finished downloading selected files.": "Tải xuống tệp đã chọn thành công.",
+
+  "Get tokens": "Get tokens",
+
+  "Grid": "Lưới",
+
+  "Hashes": "Hashes",
+
+  "Home": "Trang chủ",
+
+  "If you go back home and still see the welcome page telling you to re-authenticate, ": "If you go back home and still see the welcome page telling you to re-authenticate, ",
+
+  "If you know the password, please enter it below.": "If you know the password, please enter it below.",
+
+  "Last modified": "Thay đổi lần cuối",
+
+  "Last Modified": "Thay đổi lần cuối",
+
+  "Last modified:": "Thay đổi lần cuối:",
+
+  "List": "Danh sách ",
+
+  "Load more": "Tải thêm",
+
+  "Loading ...": "Đang tải ...",
+
+  "Loading EPUB ...": "Đang tải EPUB ...",
+
+  "Loading file content...": "Đang tải nội dung file...",
+
+  "Loading FLV extension...": "Đang tải FLV...",
+
+  "Logout": "Đăng xuất",
+
+  "MIME type": "Phần mở rộng",
+
+  "Name": "Tên",
+
+  "No more files": "Không còn tệp",
+
+  "Nothing here.": "Không có gì ở đây.",
+
+  "OAuth Step 1 - {{title}}": "OAuth Step 1 - {{title}}",
+
+  "OAuth Step 2 - {{title}}": "OAuth Step 2 - {{title}}",
+
+  "OAuth Step 3 - {{title}}": "OAuth Step 3 - {{title}}",
+
+  "of {{count}} file(s) -——loaded——one": "của {{count}} tệp -",
+
+  "of {{count}} file(s) -——loaded——other": "của {{count}} files -",
+
+  "of {{count}} file(s) -——loading——one": "của ... file(s) -",
+
+  "of {{count}} file(s) -——loading——other": "của ... file(s) -",
+
+  "Oops, that's a <1>four-oh-four</1>.": "Oops, <1>404</1>.",
+
+  "Open URL": "Mở URL",
+
+  "Open URL{{url}}": "Mở URL{{url}}",
+
+  "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.": "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.",
+
+  "Proceed to OAuth": "Proceed to OAuth",
+
+  "Requesting tokens": "Requesting tokens",
+
+  "Restart": "Khởi động lại",
+
+  "revisit home and do a hard refresh.": "revisit home and do a hard refresh.",
+
+  "Search ...": "Tìm kiếm...",
+
+  "Select all files": "Chọn tất cả tệp",
+
+  "Select file": "Chọn tệp",
+
+  "Select files": "Chọn nhiều tệp",
+
+  "Size": "Kích thước",
+
+  "Step 1/3: Preparations": "Step 1/3: Preparations",
+
+  "Step 2/3: Get authorisation code": "Step 2/3: Get authorisation code",
+
+  "Step 3/3: Get access and refresh tokens": "Step 3/3: Get access and refresh tokens",
+
+  "Store tokens": "Store tokens",
+
+  "Stored! Going home...": "Stored! Going home...",
+
+  "Storing tokens": "Storing tokens",
+
+  "Success! The API returned what we needed.": "Success! The API returned what we needed.",
+
+  "The authorisation code extracted is:": "The authorisation code extracted is:",
+
+  "The OAuth link for getting the authorisation code has been created. Click on the link above to get the <2>authorisation code</2>. Your browser willopen a new tab to Microsoft's account login page. After logging in and authenticating with your Microsoft account, you will be redirected to a blank page on localhost. Paste <6>the entire redirected URL</6> down below.": "The OAuth link for getting the authorisation code has been created. Click on the link above to get the <2>authorisation code</2>. Your browser willopen a new tab to Microsoft's account login page. After logging in and authenticating with your Microsoft account, you will be redirected to a blank page on localhost. Paste <6>the entire redirected URL</6> down below.",
+
+  "These tokens are used to authenticate yourself into password protected folders, ": "These tokens are used to authenticate yourself into password protected folders, ",
+
+  "These tokens may take a few seconds to populate after you click the button below. ": "These tokens may take a few seconds to populate after you click the button below. ",
+
+  "This route (the folder itself and the files inside) is password protected. ": "This route (the folder itself and the files inside) is password protected. ",
+
+  "Unavailable": "Không có sẵn",
+
+  "URL encoded": "URL đã mã hóa",
+
+  "Waiting for code...": "Waiting for code...",
+
+  "Weibo": "Weibo",
+
+  "Welcome to your new onedrive-vercel-index 🎉": "Welcome to your new onedrive-vercel-index 🎉",
+
+  "What is this?": "Đây là gì?",
+
+  "Where is the auth code? Did you follow step 2 you silly donut?": "Where is the auth code? Did you follow step 2 you silly donut?",
+
+  "Whoops, looks like we got a problem: {{error}}.": "Oops, có vẻ chúng tôi gặp vấn đề: {{error}}."
+
+}
+
